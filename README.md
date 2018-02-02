@@ -12,6 +12,6 @@ Aquí se encuentra la carpeta para conteo individual de personas.
   
 # Para poder bajar la librería adecuada de OpenCV:
 
-´´´
+```
 sudo apt-get install libopencv-dev python-opencv
-´´´
+```
