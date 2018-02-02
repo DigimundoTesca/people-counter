@@ -9,3 +9,9 @@ Aquí se encuentra la carpeta para conteo individual de personas.
   4. No descomentar código o podría llegar a haber fallas
   5. Los dos archivos deben de estar dentro de la misma carpeta (correr únicamente el archivo main.py)
   6. Mantaner archivos de cascadas en el mismo folder
+  
+# Para poder bajar la librería adecuada de OpenCV:
+
+´´´
+sudo apt-get install libopencv-dev python-opencv
+´´´
